@@ -4,10 +4,12 @@
 </script>
 
 <template>
-    <VLogo>
+    <header>
+        <VLogo>
 
-    </VLogo>
-    <VNavbar>
-        
-    </VNavbar>
+        </VLogo>
+        <VNavbar>
+            
+        </VNavbar>
+    </header>
 </template>
