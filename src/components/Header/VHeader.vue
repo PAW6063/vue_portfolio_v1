@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <header>
+    <header class="">
         <VLogo>
 
         </VLogo>

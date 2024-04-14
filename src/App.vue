@@ -5,13 +5,10 @@
 
 <template>
   <VHeader>
-
+    
   </VHeader>
   <VFooter>
 
   </VFooter>
-</template>
-
-<style scoped>
   
-</style>
+</template>
