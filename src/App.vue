@@ -7,8 +7,5 @@
   <VHeader>
     
   </VHeader>
-  <VFooter>
-
-  </VFooter>
   
 </template>

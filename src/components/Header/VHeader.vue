@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <header class="">
+    <header class=" bg-gray-500 w-screen h-[10dvh] flex flex-row flex-nowrap justify-between">
         <VLogo>
 
         </VLogo>
